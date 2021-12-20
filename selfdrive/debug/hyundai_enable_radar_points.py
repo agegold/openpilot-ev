@@ -28,6 +28,11 @@ SUPPORTED_FW_VERSIONS = {
     "default_config": b"\x00\x00\x00\x01\x00\x00",
     "tracks_enabled": b"\x00\x00\x00\x01\x00\x01",
   },
+  # 2020 NIRO EV
+  b'DEev SCC F-CUP      1.00 1.00 99110-Q4100\x19\x10\x02\x13"    ': {
+    "default_config": b"\x00\x00\x00\x01\x00\x00",
+    "tracks_enabled": b"\x00\x00\x00\x01\x00\x01",
+  },
   # 2021 SONATA HYBRID
   b"DNhe SCC FHCUP      1.00 1.02 99110-L5000 \x01#\x15#    ": {
     "default_config": b"\x00\x00\x00\x01\x00\x00",
